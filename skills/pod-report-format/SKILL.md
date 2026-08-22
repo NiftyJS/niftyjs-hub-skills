@@ -1,5 +1,5 @@
 ---
-name: pod-market-research
+name: pod-report-format
 description: >-
   Kích hoạt khi người dùng yêu cầu tìm kiếm, nghiên cứu, phân tích sản phẩm POD (Print on Demand) trên Etsy hoặc TikTok Shop.
   Bao gồm: tìm sản phẩm hot, trending keywords, duyệt listings, duyệt videos marketing.

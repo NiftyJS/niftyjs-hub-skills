@@ -64,7 +64,7 @@ Với mỗi sản phẩm recommend clone, đưa ra:
 
 ## Bước 5: Output
 
-Tạo artifact theo format của skill `pod-market-research`. Bao gồm:
+Tạo artifact theo format của skill `pod-report-format`. Bao gồm:
 
 1. **Executive Summary**: Tổng quan thị trường, số sản phẩm phân tích, top 3 highlights
 2. **Bảng sản phẩm HOT** (theo format chuẩn, có cột Platform nếu mix data)

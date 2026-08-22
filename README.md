@@ -8,7 +8,7 @@ Bộ Antigravity Skills cho nghiên cứu thị trường POD (Print on Demand).
 
 | Skill | Mô tả | Trigger |
 |-------|--------|---------|
-| [pod-market-research](./skills/pod-market-research/SKILL.md) | Format output chuẩn cho kết quả research | "tìm sản phẩm", "hot listings" |
+| [pod-report-format](./skills/pod-report-format/SKILL.md) | Format output chuẩn cho kết quả research | "tìm sản phẩm", "hot listings" |
 | [pod-spy-hot-products](./skills/pod-spy-hot-products/SKILL.md) | Spy sản phẩm HOT, đánh giá khả năng clone | "spy", "clone", "winning products" |
 | [pod-trend-discovery](./skills/pod-trend-discovery/SKILL.md) | Phát hiện trends đang lên, đề xuất ý tưởng | "trend", "xu hướng", "niche mới" |
 | [pod-design-scaling](./skills/pod-design-scaling/SKILL.md) | Scale design đang có theo chiều ngang/dọc | "scale design", "mở rộng", "sub-niche" |

@@ -69,7 +69,7 @@ Với mỗi trend đáng chú ý, đề xuất:
 
 ## Bước 6: Output
 
-Tạo artifact theo format `pod-market-research`:
+Tạo artifact theo format `pod-report-format`:
 
 1. **Trend Radar**: Bảng tổng hợp tất cả trends phát hiện với Stage + Type + Signal
 2. **Top 3 Golden Opportunities**: Trends có tiềm năng nhất + lý do
