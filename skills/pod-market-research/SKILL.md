@@ -23,6 +23,7 @@ Khi sử dụng các MCP tools từ `niftyjs-hub` server, **luôn trình bày k�
    - **Etsy**: `[product title](https://www.etsy.com/listing/{listing_id})`
    - **TikTok product**: `[product name](https://shop.tiktok.com/us/pdp/{product_name_slug}/{product_id})`
    - **TikTok video**: `[video title](video_url)` — field `video_url` có sẵn trong response
+8. **Ghi rõ platform** khi kết quả mix nhiều nền tảng: thêm cột `Platform` (🟠 Etsy / 🎵 TikTok) vào bảng để phân biệt nguồn
 
 ---
 
