@@ -14,6 +14,7 @@ Bộ Antigravity Skills cho nghiên cứu thị trường POD (Print on Demand).
 | [pod-design-scaling](./skills/pod-design-scaling/SKILL.md) | Scale design đang có theo chiều ngang/dọc | "scale design", "mở rộng", "sub-niche" |
 | [pod-cross-platform-arbitrage](./skills/pod-cross-platform-arbitrage/SKILL.md) | Tìm cơ hội chênh lệch Etsy ↔ TikTok | "arbitrage", "cross-platform" |
 | [pod-video-marketing-spy](./skills/pod-video-marketing-spy/SKILL.md) | Phân tích video TikTok hiệu quả nhất | "video marketing", "spy video" |
+| [pod-visual-inspiration](./skills/pod-visual-inspiration/SKILL.md) | Tìm cảm hứng visual, trích xuất quotes/text | "ý tưởng thiết kế", "pinterest", "aesthetic" |
 
 ## 🚀 Cài đặt
 
