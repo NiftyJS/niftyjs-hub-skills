@@ -1,13 +1,11 @@
 ---
 name: pod-design-scaling
-description: >-
-  Kích hoạt khi người dùng muốn scale design đang có, phân tích niche/sub-niche, hoặc tìm hướng mở rộng sản phẩm.
-  Trigger khi user nhắc: 'scale design', 'mở rộng', 'sub-niche', 'niche liên quan',
-  'expand', 'variations', 'phát triển thêm', 'design này bán gì thêm', 'horizontal', 'vertical scaling'.
-  Cũng trigger khi user cung cấp hình ảnh mockup/design và hỏi về tiềm năng mở rộng.
+description: Trigger khi cần scale design POD hiện tại hoặc mở rộng niche.
 ---
 
 # POD Design Scaling — Workflow scale design hiện tại
+
+**Triggers:** Kích hoạt khi người dùng muốn scale design đang có, phân tích niche/sub-niche, hoặc tìm hướng mở rộng sản phẩm. Từ khóa: 'scale design', 'mở rộng', 'sub-niche', 'niche liên quan', 'expand', 'variations', 'phát triển thêm', 'horizontal', 'vertical scaling'. Cũng trigger khi user cung cấp ảnh mockup và hỏi tiềm năng mở rộng.
 
 Khi user có design đang bán (hoặc ý tưởng design) và muốn scale, thực hiện workflow sau.
 

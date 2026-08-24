@@ -1,13 +1,11 @@
 ---
 name: pod-cross-platform-arbitrage
-description: >-
-  Kích hoạt khi người dùng muốn tìm cơ hội arbitrage giữa Etsy và TikTok Shop,
-  hoặc so sánh sản phẩm/niche giữa 2 nền tảng.
-  Trigger khi user nhắc: 'arbitrage', 'cross-platform', 'so sánh Etsy TikTok',
-  'hot trên TikTok chưa có trên Etsy', 'chênh lệch', 'cơ hội giữa 2 nền tảng'.
+description: Trigger khi tìm cơ hội arbitrage giữa Etsy và TikTok Shop.
 ---
 
 # POD Cross-Platform Arbitrage — Tìm cơ hội chênh lệch giữa Etsy & TikTok
+
+**Triggers:** Kích hoạt khi người dùng muốn tìm cơ hội arbitrage giữa Etsy và TikTok Shop, hoặc so sánh sản phẩm/niche giữa 2 nền tảng. Từ khóa: 'arbitrage', 'cross-platform', 'so sánh Etsy TikTok', 'hot trên TikTok chưa có trên Etsy', 'chênh lệch', 'cơ hội giữa 2 nền tảng'.
 
 Sản phẩm viral trên TikTok thường mất 2-4 tuần để saturate trên Etsy (và ngược lại).
 Skill này giúp phát hiện cửa sổ vàng đó.

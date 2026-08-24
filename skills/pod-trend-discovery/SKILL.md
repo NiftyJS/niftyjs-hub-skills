@@ -1,12 +1,11 @@
 ---
 name: pod-trend-discovery
-description: >-
-  Kích hoạt khi người dùng muốn phát hiện trends, tìm xu hướng mới, hoặc khám phá niche tiềm năng.
-  Trigger khi user nhắc: 'trend', 'xu hướng', 'niche mới', 'keyword trending', 'thị trường đang hot',
-  'opportunity', 'cơ hội', 'niche nào đang lên', 'tìm ý tưởng mới'.
+description: Trigger khi muốn phát hiện xu hướng mới hoặc niche POD trend.
 ---
 
 # POD Trend Discovery — Workflow phát hiện trends đang lên
+
+**Triggers:** Kích hoạt khi người dùng muốn phát hiện trends, tìm xu hướng mới, hoặc khám phá niche tiềm năng. Từ khóa: 'trend', 'xu hướng', 'niche mới', 'keyword trending', 'thị trường đang hot', 'opportunity', 'cơ hội', 'niche nào đang lên', 'tìm ý tưởng mới'.
 
 Khi user muốn phát hiện trends mới hoặc tìm cơ hội, thực hiện workflow sau.
 

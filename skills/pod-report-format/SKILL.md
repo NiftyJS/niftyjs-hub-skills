@@ -1,13 +1,11 @@
 ---
 name: pod-report-format
-description: >-
-  Kích hoạt khi người dùng yêu cầu tìm kiếm, nghiên cứu, phân tích sản phẩm POD (Print on Demand) trên Etsy hoặc TikTok Shop.
-  Bao gồm: tìm sản phẩm hot, trending keywords, duyệt listings, duyệt videos marketing.
-  Trigger khi user nhắc: 'tìm sản phẩm', 'research niche', 'trending', 'hot listings', 'browse products',
-  'tìm video', 'phân tích thị trường', 'dog mom', 'funny cat', hoặc bất kỳ niche POD nào.
+description: Trigger khi yêu cầu format báo cáo nghiên cứu sản phẩm POD.
 ---
 
 # POD Market Research — Hướng dẫn format output
+
+**Triggers:** Kích hoạt khi người dùng yêu cầu tìm kiếm, nghiên cứu, phân tích sản phẩm POD trên Etsy hoặc TikTok. Bao gồm tìm sản phẩm hot, keywords, listings, videos. Từ khóa: 'tìm sản phẩm', 'research niche', 'trending', 'hot listings', 'browse products', 'tìm video', 'phân tích thị trường', hoặc các niche cụ thể.
 
 Khi sử dụng các MCP tools từ `niftyjs-hub` server, **luôn trình bày kết quả** theo format chuẩn dưới đây.
 

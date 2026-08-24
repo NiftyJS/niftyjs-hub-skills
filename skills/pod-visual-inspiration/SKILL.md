@@ -1,13 +1,11 @@
 ---
 name: pod-visual-inspiration
-description: >-
-  Kích hoạt khi người dùng muốn tìm ý tưởng thiết kế (visual), trích xuất quotes/text cho áo,
-  phân tích color palette, hoặc tìm các niche visual đang hot (aesthetic).
-  Trigger khi user nhắc: 'tìm ý tưởng thiết kế', 'visual trend', 'pinterest', 'aesthetic',
-  'tìm quotes', 'cảm hứng thiết kế', 'color palette'.
+description: Trigger khi cần tìm ý tưởng visual và quotes thiết kế POD.
 ---
 
 # POD Visual Inspiration — Tìm cảm hứng & Visual Trends từ Pinterest
+
+**Triggers:** Kích hoạt khi người dùng muốn tìm ý tưởng thiết kế (visual), trích xuất quotes/text cho áo, phân tích color palette, hoặc tìm các niche visual đang hot (aesthetic). Từ khóa: 'tìm ý tưởng thiết kế', 'visual trend', 'pinterest', 'aesthetic', 'tìm quotes', 'cảm hứng thiết kế', 'color palette'.
 
 Khi user cần ý tưởng thiết kế, phong cách visual, hoặc quotes text, hãy dùng quy trình sau với Pinterest MCP tools.
 

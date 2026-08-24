@@ -1,13 +1,11 @@
 ---
 name: pod-video-marketing-spy
-description: >-
-  Kích hoạt khi người dùng muốn phân tích video marketing TikTok, tìm video hiệu quả,
-  hoặc học cách làm content cho sản phẩm POD.
-  Trigger khi user nhắc: 'video marketing', 'tìm video', 'spy video', 'content TikTok',
-  'video bán hàng', 'influencer', 'viral video', 'video strategy', 'hook', 'UGC'.
+description: Trigger khi muốn phân tích video marketing POD trên TikTok.
 ---
 
 # POD Video Marketing Spy — Phân tích video TikTok hiệu quả
+
+**Triggers:** Kích hoạt khi người dùng muốn phân tích video marketing TikTok, tìm video hiệu quả, hoặc học cách làm content cho sản phẩm POD. Từ khóa: 'video marketing', 'tìm video', 'spy video', 'content TikTok', 'video bán hàng', 'influencer', 'viral video', 'video strategy', 'hook', 'UGC'.
 
 Khi user muốn học cách làm video marketing hoặc tìm video reference, thực hiện workflow sau.
 

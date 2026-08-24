@@ -1,12 +1,11 @@
 ---
 name: pod-spy-hot-products
-description: >-
-  Kích hoạt khi người dùng muốn spy, tìm sản phẩm HOT đang bán chạy để clone hoặc lấy ý tưởng.
-  Trigger khi user nhắc: 'spy sản phẩm', 'tìm sản phẩm hot', 'clone', 'sản phẩm bán chạy',
-  'top sellers', 'winning products', 'best sellers', 'sản phẩm nào đang hot'.
+description: Trigger khi muốn spy tìm sản phẩm POD bán chạy để clone.
 ---
 
 # POD Spy Hot Products — Workflow tìm sản phẩm HOT để clone
+
+**Triggers:** Kích hoạt khi người dùng muốn spy, tìm sản phẩm HOT đang bán chạy để clone hoặc lấy ý tưởng. Từ khóa: 'spy sản phẩm', 'tìm sản phẩm hot', 'clone', 'sản phẩm bán chạy', 'top sellers', 'winning products', 'best sellers', 'sản phẩm nào đang hot'.
 
 Khi user muốn spy sản phẩm hot, thực hiện workflow sau đây **đầy đủ các bước**.
 
