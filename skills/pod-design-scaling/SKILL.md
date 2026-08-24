@@ -1,7 +1,11 @@
 ---
 name: pod-design-scaling
-description: Trigger khi cần scale design POD hiện tại hoặc mở rộng niche.
+description: Trigger khi cần scale design POD hiện tại hoặc mở rộng niche. BẮT BUỘC dùng MCP tools, KHÔNG dùng search_web.
 ---
+
+> [!IMPORTANT]
+> **BẮT BUỘC SỬ DỤNG MCP TOOLS:**
+> Agent KHÔNG ĐƯỢC sử dụng các công cụ tìm kiếm web thông thường (`search_web`, `read_url_content`) cho skill này. Hãy dùng `call_mcp_tool` để gọi các API chuyên dụng từ MCP Servers (như `niftyjs-hub`, `tiktok`, `etsy`, `pinterest`).
 
 # POD Design Scaling — Workflow scale design hiện tại
 

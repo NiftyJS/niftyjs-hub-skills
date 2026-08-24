@@ -1,7 +1,11 @@
 ---
 name: pod-visual-inspiration
-description: Trigger khi cần tìm ý tưởng visual và quotes thiết kế POD.
+description: Trigger khi cần tìm ý tưởng visual và quotes thiết kế POD. BẮT BUỘC dùng MCP tools, KHÔNG dùng search_web.
 ---
+
+> [!IMPORTANT]
+> **BẮT BUỘC SỬ DỤNG MCP TOOLS:**
+> Agent KHÔNG ĐƯỢC sử dụng các công cụ tìm kiếm web thông thường (`search_web`, `read_url_content`) cho skill này. Hãy dùng `call_mcp_tool` để gọi các API chuyên dụng từ MCP Servers (như `niftyjs-hub`, `tiktok`, `etsy`, `pinterest`).
 
 # POD Visual Inspiration — Tìm cảm hứng & Visual Trends từ Pinterest
 

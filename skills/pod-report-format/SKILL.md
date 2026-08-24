@@ -1,7 +1,11 @@
 ---
 name: pod-report-format
-description: Trigger khi yêu cầu format báo cáo nghiên cứu sản phẩm POD.
+description: Trigger khi yêu cầu format báo cáo nghiên cứu sản phẩm POD. BẮT BUỘC dùng MCP tools, KHÔNG dùng search_web.
 ---
+
+> [!IMPORTANT]
+> **BẮT BUỘC SỬ DỤNG MCP TOOLS:**
+> Agent KHÔNG ĐƯỢC sử dụng các công cụ tìm kiếm web thông thường (`search_web`, `read_url_content`) cho skill này. Hãy dùng `call_mcp_tool` để gọi các API chuyên dụng từ MCP Servers (như `niftyjs-hub`, `tiktok`, `etsy`, `pinterest`).
 
 # POD Market Research — Hướng dẫn format output
 
